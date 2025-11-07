@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/atharimran728/atharimran728/blob/main/Cover.jpeg" alt="Cover" width="250" />
+  <img src="https://github.com/atharimran728/atharimran728/blob/main/Cover.jpeg" alt="Cover" />
 </p>
 
 # 👋 Hey there, I'm Maverick (Athar Imran)
