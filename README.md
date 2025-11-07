@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/atharimran728/atharimran728/blob/main/Cover.jpeg" alt="Cover" width="250" />
+</p>
+
 # 👋 Hey there, I'm Maverick (Athar Imran)
 
 > *Curiosity led me to cybersecurity — logic made me stay.*
