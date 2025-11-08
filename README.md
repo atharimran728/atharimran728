@@ -1,59 +1,172 @@
+<!-- markdownlint-disable MD033 -->
 
 <p align="center">
-  <img src="https://github.com/atharimran728/atharimran728/blob/main/Cover.jpeg" alt="Cover" />
+
+<img src="Images/images_/Cover.jpeg" alt="Cover" width="100%" />
+
+</p> 
+
+---
+
+<div align="center">
+
+<h1>👾 Threat detected? Nope, just me — <img src="Images\images_\Athar Imran text.png" alt="Profile" width=250 /> </h1>
+
+<h3>🔒 SOC Analyst | Cybersecurity | Blue Team </h3>
+
+<blockquote> <p><em>Every packet tells a story; here’s mine.</em></p> </blockquote>
+
+</div> 
+
+---
+### 📡 Reach Me
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/atharimran728/" title="LinkedIn Profile"><img width="22" src="Images\images_\Linkedin.png"> LinkedIn</a></code>
+  <code><a href="atharimran728@gmail.com" title="Gmail"><img width="22" src="Images\images_\Gmail.webp"> Gmail</a></code>
+  <code><a href="https://atharimran728.lovable.app" title="Portfolio"><img width="22" src="Images\images_\globe-grid-png-icon-sticker-flat-graphic-transparent-background_53876-965008.avif"> Portfolio</a></code>
+  <code><a href="https://www.instagram.com/atharimran728/" title="Instagram Profile"><img width="22" src="Images\images_\Instagram_icon.png"> Instagram</a></code>
+</h5>
+
+---
+
+```diff
++> whoami
+@@ atharimran728:~$ id @@
+
+👤  Name:        Athar Imran  
+💼  Role:        Security Analyst   
+🌐  Location:    Pakistan  
+📡  Status:      Learning. Practicing. Growing.  
+
+Cybersecurity student and SOC Analyst-in-training passionate about threat detection, incident response, and adversary emulation.  
+
+My journey began with a simple question —“How does this work?” — and evolved into a mission to understand how attackers think so I can stop them.
+
+````
+
+---
+
+## 🧪 Experience
+> `Telemetry feed: internships logged.`  
+
+<p align="left">
+  <img src="Images\exp_boxes\1.png"  width=400/>
+
+  <img src="Images\exp_boxes\2.png" width=400/>
 </p>
 
-# 👋 Hey there, I'm Maverick (Athar Imran)
-
-> *Curiosity led me to cybersecurity — logic made me stay.*
-
----
-
-### 🧠 About Me  
-I’m a cybersecurity student and SOC Analyst-in-training passionate about **threat detection**, **incident response**, and **adversary emulation**.  
-My journey began with a simple question — *“How does this work?”* — and evolved into a mission to understand how attackers think so I can stop them.
-
-I believe in building from the ground up:  
-`Networking → Logs → Linux → Adversary Emulation → Defense`
+<p align="left">
+  <img src="Images\exp_boxes\3.png" width=400/>
+</p>
 
 ---
 
-### 🧩 Tech Stack & Tools
-| Category | Tools |
-|-----------|--------|
-| **SIEM & Monitoring** | Wazuh, ELK Stack, OSSEC |
-| **Network Defense** | Snort, Fail2Ban |
-| **Operating Systems** | Linux (Kali, Ubuntu), Windows |
-| **Learning Focus** | SOC Operations, Threat Hunting, Detection Engineering |
+## 📂 Top Repositories
+> `Querying top GitHub assets...`
+
+<p align="center">
+  <a href="https://github.com/atharimran728/Insider-Threat-s-Lateral-Movement-Simulation-Detection-Identification-using-NetworkMiner3.0-Zeek" target="_blank">
+    <img src="Images\repo_cards\1.png" width="200" alt="Snort Malware Detection" />
+  </a>
+  <a href="https://github.com/atharimran728/Snort-IDS-IPS-Detection-and-Evasion" target="_blank">
+    <img src="Images\repo_cards\2.png" width="200" alt="Insider Threat Analysis" />
+  </a>
+  <a href="https://github.com/atharimran728/Deployment-and-Integration-of-Wazuh-SIEM" target="_blank">
+    <img src="Images\repo_cards\3.png" width="200" alt="Blue Team Automation" />
+  </a>
+</p>
 
 ---
 
-### ⚔️ Current Focus
-- Practicing hands-on **SOC analysis** and **threat detection**
-- Simulating real-world attack chains (Red + Blue Team labs)
-- Writing detection rules and improving log visibility
-- Contributing to open-source cybersecurity projects
+## 🎓 Certifications
+> `Validating credentials...`
+
+<p align="center">
+    <img src="Images\certs\1.png" width="200" alt="Cerified in Cybersecuirty" />
+    <img src="Images\certs\2.png" width="200" alt="Google Cybersecurity" />
+    <img src="Images\certs\3.png" width="200" alt="Cisco Jr. Analyst" />
+    <img src="Images\certs\4.png" width="200" alt="Mirosoft Cybersecurity" />
+    <img src="Images\certs\5.png" width="200" alt="Workshop1" />
+    <img src="Images\certs\6.png" width="200" alt="Workshop2" />
+    <img src="Images\certs\7.png" width="200" alt="Govt Workshop" />
+
+</p>
 
 ---
 
-### 📚 Projects & Labs
-🚧 *Work in progress — stay tuned!*  
-> I’m currently documenting labs and experiments related to SOC analysis, Snort detections, and insider threat simulation.
+## ⚙️ Skills
+> `Parsing capability matrix...`
 
+### 🧩 Tools
+
+<h5 align="center">
+  <code><img width="28" src="Images\tools\wazuh.png"><br> Wazuh</code>
+  <code><img width="28" src="Images\tools\elk.png"><br>ELK Stack</code>
+  <code><img width="28" src="Images\tools\ossec.jpeg"><br>OSSEC</code>
+  <code> <img width="28" src="Images\tools\snort.jpeg"><br>SNORT</code>
+  <code><img width="28" src="Images\tools\fail2ban.png"><br> Fail2Ban</code>
+  <code><img width="28" src="Images\tools\wireshark.jpeg"><br>Wireshark</code>
+  <code><img width="28" src="Images\tools\networkminer.png"><br>NetworkMiner</code>
+  <code><img width="28" src="Images\tools\zeek.png"><br>Zeek</code>
+</h5>
+
+### 💻 Languages
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="Images\language\python.jpeg" width="40px"><br>
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="Images\language\cpp.png" width="40px"><br>
+        <sub><b>C++</b></sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="Images\language\bash.png" width="40px"><br>
+        <sub><b>Bash</b></sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="Images\language\yml.png" width="40px"><br>
+        <sub><b>YAML</b></sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="Images\language\regex.png" width="40px"><br>
+        <sub><b>Regex</b></sub>
+      </td>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🧠 What I Do
+![Threat Detection](https://img.shields.io/badge/-Threat%20Detection-0A66C2?style=for-the-badge\&logo=siemens)
+![Incident Response](https://img.shields.io/badge/-Incident%20Response-0078D7?style=for-the-badge\&logo=microsoft)
+![CTI Reporting](https://img.shields.io/badge/-CTI%20Reporting-607D8B?style=for-the-badge\&logo=notion)
+![Threat Analysis](https://img.shields.io/badge/-Threat%20Analysis-455A64?style=for-the-badge\&logo=graph)
+![Detection Tuning](https://img.shields.io/badge/-Detection%20Tuning-546E7A?style=for-the-badge\&logo=gear) 
+![Packet Analysis](https://img.shields.io/badge/-Packet%20Analysis-1976D2?style=for-the-badge\&logo=ethernet)
+![PCAP Analysis](https://img.shields.io/badge/-PCAP%20Analysis-0277BD?style=for-the-badge\&logo=data\:image/svg+xml;base64,)
+![Adversary Emulation](https://img.shields.io/badge/-Adversary%20Emulation-B71C1C?style=for-the-badge\&logo=themoviedatabase)
+![Vulnerability Scanning](https://img.shields.io/badge/-Vulnerability%20Scanning-9C27B0?style=for-the-badge\&logo=nessus)
+![Automation](https://img.shields.io/badge/-Automation-009688?style=for-the-badge\&logo=gear)
 ---
 
-### 🌐 Connect With Me
-- **LinkedIn:** [linkedin.com/in/atharimran728](https://linkedin.com/in/atharimran728)
-- **Email:** [atharimran728@gmail.com](mailto:atharimran728@gmail.com)
+## 🎯 Outside the SOC
+<div align="center">
 
----
+![Books](https://img.shields.io/badge/📚-Reading-8E44AD?style=flat-square)
+![Chess](https://img.shields.io/badge/♟️-Chess-2C3E50?style=flat-square)
+![Films](https://img.shields.io/badge/🎬-Films-16A085?style=flat-square)
+![Football](https://img.shields.io/badge/⚽-Football-27AE60?style=flat-square)
+![Tennis](https://img.shields.io/badge/🎾-Tennis-2980B9?style=flat-square)
+![Rugby](https://img.shields.io/badge/🏉-Rugby-D35400?style=flat-square)
+![F1](https://img.shields.io/badge/🏎️-Formula%201-E74C3C?style=flat-square)
+![Talks](https://img.shields.io/badge/🗣️-Discussions-34495E?style=flat-square)
+![Design](https://img.shields.io/badge/🏛️-Architecture%20&%20Design-9B59B6?style=flat-square)
 
-### ⚡ Fun Fact
-When I’m not deep-diving into logs or packets, you’ll find me exploring chess strategies, films, or Formula 1 races — or discussing geopolitics and design.
+</div>
 
----
-
-> “Defenders think in lists. Attackers think in graphs. As long as that’s true, attackers win.”  
-> — John Lambert
 
 ---
