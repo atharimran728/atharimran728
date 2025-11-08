@@ -50,13 +50,13 @@ My journey began with a simple question —“How does this work?” — and evo
 > `Telemetry feed: internships logged.`  
 
 <p align="left">
-  <img src="Images\exp_boxes\1.png"  width=400/>
+  <img src="Images\exp_boxes\1.png"  width=350/>
 
-  <img src="Images\exp_boxes\2.png" width=400/>
+  <img src="Images\exp_boxes\2.png" width=350/>
 </p>
 
 <p align="left">
-  <img src="Images\exp_boxes\3.png" width=400/>
+  <img src="Images\exp_boxes\3.png" width=350/>
 </p>
 
 ---
