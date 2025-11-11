@@ -36,7 +36,7 @@
 👤  Name:        Athar Imran  
 💼  Role:        Security Analyst   
 🌐  Location:    Pakistan  
-📡  Status:      Learning. Practicing. Growing.  
+📡  Status:      youngblooded and firehearted 
 
 Cybersecurity student and SOC Analyst-in-training passionate about threat detection, incident response, and adversary emulation.  
 
