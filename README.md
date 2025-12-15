@@ -89,6 +89,8 @@ My journey began with a simple question —“How does this work?” — and evo
     <img src="Images\certs\5.png" width="200" alt="Workshop1" />
     <img src="Images\certs\6.png" width="200" alt="Workshop2" />
     <img src="Images\certs\7.png" width="200" alt="Govt Workshop" />
+    <img src="Images\certs\8.png" width="200" alt="SOC Byte Workshop" />
+    <img src="Images\certs\9.png" width="200" alt="Cybersecurity Bootcamp" />
 
 </p>
 
