@@ -23,7 +23,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/atharimran728/" title="LinkedIn Profile"><img width="22" src="Images\images_\Linkedin.png"> LinkedIn</a></code>
   <code><a href="atharimran728@gmail.com" title="Gmail"><img width="22" src="Images\images_\Gmail.webp"> Gmail</a></code>
-  <code><a href="https://atharimran728.lovable.app" title="Portfolio"><img width="22" src="Images\images_\globe-grid-png-icon-sticker-flat-graphic-transparent-background_53876-965008.avif"> Portfolio</a></code>
+  <code><a href="https://atharimran728.lovable.app" title="Portfolio"><img width="22" src="Images\images_\favicon.png"> Portfolio</a></code>
   <code><a href="https://www.instagram.com/atharimran728/" title="Instagram Profile"><img width="22" src="Images\images_\Instagram_icon.png"> Instagram</a></code>
 </h5>
 
