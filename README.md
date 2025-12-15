@@ -110,9 +110,8 @@ My journey began with a simple question —“How does this work?” — and evo
   <code><img width="28" src="Images\tools\wireshark.jpeg"><br>Wireshark</code>
   <code><img width="28" src="Images\tools\networkminer.png"><br>NetworkMiner</code>
   <code><img width="28" src="Images\tools\zeek.png"><br>Zeek</code>
-  <code><img width="28" src="Images\tools\Suricata.png"><br>Suricata</code>
-  <code><img width="28" src="Images\tools\Wireshark.png"><br>Wireshark</code>
-  <code><img width="28" src="Images\tools\AtomicRedTeam.png"><br>AtomicRedTeam</code>
+  <code><img width="28" src="Images\tools\suricata.jfif"><br>Suricata</code>
+  <code><img width="28" src="Images\tools\art.png"><br>AtomicRedTeam</code>
   <code><img width="28" src="Images\tools\Caldera.png"><br>Caldera</code>
 </h5>
 
