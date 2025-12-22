@@ -92,6 +92,7 @@ My journey began with a simple question —“How does this work?” — and evo
     <img src="Images\certs\7.png" width="200" alt="Govt Workshop" />
     <img src="Images\certs\8.png" width="200" alt="SOC Byte Workshop" />
     <img src="Images\certs\9.png" width="200" alt="Cybersecurity Bootcamp" />
+    <img src="Images\certs\10.png" width="200" alt="Certified Phishing Prevention Specialist (CPPS)" />
 
 </p>
 
