@@ -25,6 +25,7 @@
   <code><a href="atharimran728@gmail.com" title="Gmail"><img width="22" src="Images\images_\Gmail.webp"> Gmail</a></code>
   <code><a href="https://atharimran728.lovable.app" title="Portfolio"><img width="22" src="Images\images_\favicon.png"> Portfolio</a></code>
   <code><a href="https://www.instagram.com/atharimran728/" title="Instagram Profile"><img width="22" src="Images\images_\Instagram_icon.png"> Instagram</a></code>
+  <code><a href="https://www.pinterest.com/atharimran728/" title="Pintrest Profile"><img width="22" src="Images\images_\pintrest.png"> Instagram</a></code>
 </h5>
 
 ---
