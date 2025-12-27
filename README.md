@@ -7,7 +7,6 @@
 </a>
 
 </p> 
----
 
 <div align="center">
 
@@ -52,13 +51,19 @@ My journey began with a simple question —“How does this work?” — and evo
 > `Telemetry feed: internships logged.`  
 
 <p align="left">
-  <img src="Images\exp_boxes\1.png"  width=350/>
+  <a href="https://www.linkedin.com/in/atharimran728/details/experience/" target="_blank">
+    <img src="Images/exp_boxes/1.png" width="350"/>
+  </a>
 
-  <img src="Images\exp_boxes\2.png" width=350/>
+  <a href="https://www.linkedin.com/in/atharimran728/details/experience/" target="_blank">
+    <img src="Images/exp_boxes/2.png" width="350"/>
+  </a>
 </p>
 
 <p align="left">
-  <img src="Images\exp_boxes\3.png" width=350/>
+  <a href="https://www.linkedin.com/in/atharimran728/details/experience/" target="_blank">
+    <img src="Images/exp_boxes/3.png" width="350"/>
+  </a>
 </p>
 
 ---
