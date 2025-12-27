@@ -14,9 +14,7 @@ Images\images_\Athar Imran text.png
 
 <div align="center">
 
-<h1>👾 Threat detected? Nope, just me — <a href="https://atharimran728.lovable.app/" target="_self">
-  <img src="Images\images_\Athar Imran text.png" alt="Cover" width="100%" />
-</a> </h1>
+<h1>👾 Threat detected? Nope, just me — <a href="https://atharimran728.lovable.app/" target="_self"> <img src="Images\images_\Athar Imran text.png" alt="Cover" width="100%" /> </a> </h1>
 
 <h3>🔒 SOC Analyst | Cybersecurity | Blue Team </h3>
 
