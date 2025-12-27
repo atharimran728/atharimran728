@@ -7,9 +7,6 @@
 </a>
 
 </p> 
-
-
-Images\images_\Athar Imran text.png
 ---
 
 <div align="center">
