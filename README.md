@@ -50,21 +50,15 @@ My journey began with a simple question —“How does this work?” — and evo
 ## 🧪 Experience
 > `Telemetry feed: internships logged.`  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/atharimran728/details/experience/" target="_blank">
-    <img src="Images/exp_boxes/1.png" width="350"/>
-  </a>
+## 🧪 Experience
 
-  <a href="https://www.linkedin.com/in/atharimran728/details/experience/" target="_blank">
-    <img src="Images/exp_boxes/2.png" width="350"/>
-  </a>
+> Telemetry feed: internships logged. 
+<p align="left">
+  <img src="Images\exp_boxes\1.png" width=350/> 
+  <img src="Images\exp_boxes\2.png" width=350/> 
+  <img src="Images\exp_boxes\3.png" width=350/> 
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/atharimran728/details/experience/" target="_blank">
-    <img src="Images/exp_boxes/3.png" width="350"/>
-  </a>
-</p>
 
 ---
 
