@@ -72,6 +72,12 @@ My journey began with a simple question - “How does this work?” - and evolve
   <a href="https://github.com/atharimran728/Deployment-and-Integration-of-Wazuh-SIEM" target="_blank">
     <img src="Images\repo_cards\3.png" width="200" alt="Blue Team Automation" />
   </a>
+  <a href="https://github.com/atharimran728/IRIScribe---Incident-Response-Insight-System" target="_blank">
+    <img src="Images\repo_cards\4.png" width="200" alt="IRIScribe - Incident Responce Insight System" />
+  </a>
+  <a href="https://github.com/atharimran728/Security-Operations-Cases" target="_blank">
+    <img src="Images\repo_cards\5.png" width="200" alt="Security Operation Cases" />
+  </a>
 </p>
 
 ---
