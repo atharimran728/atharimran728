@@ -64,19 +64,19 @@ My journey began with a simple question - “How does this work?” - and evolve
 
 <p align="center">
   <a href="https://github.com/atharimran728/Insider-Threat-s-Lateral-Movement-Simulation-Detection-Identification-using-NetworkMiner3.0-Zeek" target="_blank">
-    <img src="Images\repo_cards\1.png" width="200" alt="Snort Malware Detection" />
+    <img src="Images\repo_cards\1.png" width="150" alt="Snort Malware Detection" />
   </a>
   <a href="https://github.com/atharimran728/Snort-IDS-IPS-Detection-and-Evasion" target="_blank">
-    <img src="Images\repo_cards\2.png" width="200" alt="Insider Threat Analysis" />
+    <img src="Images\repo_cards\2.png" width="150" alt="Insider Threat Analysis" />
   </a>
   <a href="https://github.com/atharimran728/Deployment-and-Integration-of-Wazuh-SIEM" target="_blank">
-    <img src="Images\repo_cards\3.png" width="200" alt="Blue Team Automation" />
+    <img src="Images\repo_cards\3.png" width="150" alt="Blue Team Automation" />
   </a>
   <a href="https://github.com/atharimran728/IRIScribe---Incident-Response-Insight-System" target="_blank">
-    <img src="Images\repo_cards\4.png" width="200" alt="IRIScribe - Incident Responce Insight System" />
+    <img src="Images\repo_cards\4.png" width="150" alt="IRIScribe - Incident Responce Insight System" />
   </a>
   <a href="https://github.com/atharimran728/Security-Operations-Cases" target="_blank">
-    <img src="Images\repo_cards\5.png" width="200" alt="Security Operation Cases" />
+    <img src="Images\repo_cards\5.png" width="150" alt="Security Operation Cases" />
   </a>
 </p>
 
