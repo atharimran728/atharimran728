@@ -41,18 +41,15 @@
 
 Cybersecurity student and SOC Analyst-in-training passionate about threat detection, incident response, and adversary emulation.  
 
-My journey began with a simple question —“How does this work?” — and evolved into a mission to understand how attackers think so I can stop them.
+My journey began with a simple question - “How does this work?” - and evolved into a mission to understand how attackers think so I can stop them.
 
 ````
 
 ---
 
 ## 🧪 Experience
-> `Telemetry feed: internships logged.`  
+> `Telemetry feed: internships logged.`
 
-## 🧪 Experience
-
-> Telemetry feed: internships logged. 
 <p align="center">
   <img src="Images\exp_boxes\1.png" width=350/> 
   <img src="Images\exp_boxes\2.png" width=350/> 
