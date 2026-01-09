@@ -161,6 +161,8 @@ My journey began with a simple question - “How does this work?” - and evolve
 ![Adversary Emulation](https://img.shields.io/badge/-Adversary%20Emulation-B71C1C?style=for-the-badge\&logo=themoviedatabase)
 ![Vulnerability Scanning](https://img.shields.io/badge/-Vulnerability%20Scanning-9C27B0?style=for-the-badge\&logo=nessus)
 ![Automation](https://img.shields.io/badge/-Automation-009688?style=for-the-badge\&logo=gear)
+![Phishing Analysis](https://img.shields.io/badge/-Phishing%20Catch-F57C00?style=for-the-badge&logo=phishing)
+
 ---
 
 ## 🎯 Outside the SOC
@@ -169,8 +171,6 @@ My journey began with a simple question - “How does this work?” - and evolve
 ![Books](https://img.shields.io/badge/📚-Reading-8E44AD?style=flat-square)
 ![Chess](https://img.shields.io/badge/♟️-Chess-2C3E50?style=flat-square)
 ![Films](https://img.shields.io/badge/🎬-Films-16A085?style=flat-square)
-![Football](https://img.shields.io/badge/⚽-Football-27AE60?style=flat-square)
-![Tennis](https://img.shields.io/badge/🎾-Tennis-2980B9?style=flat-square)
 ![Rugby](https://img.shields.io/badge/🏉-Rugby-D35400?style=flat-square)
 ![F1](https://img.shields.io/badge/🏎️-Formula%201-E74C3C?style=flat-square)
 ![Talks](https://img.shields.io/badge/🗣️-Discussions-34495E?style=flat-square)
